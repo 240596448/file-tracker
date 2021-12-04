@@ -9,4 +9,4 @@
 	.ВключитьФайл("src")
 	.ВключитьФайл("lib.config")
 	.ВключитьФайл("README.md")
-	.ИсполняемыйФайл("src/СканерПапки.os", "file-tracker")
+	.ИсполняемыйФайл("src/cmd/file-tracker.os", "file-tracker")
